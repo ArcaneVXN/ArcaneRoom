@@ -35,20 +35,7 @@ This suite is designed to support:
 ---
 
 ### 📂 Structure (WIP)
-ArcaneRoom/
-├── src/
-│ ├── Core/
-│ ├── UI/
-│ ├── Editor/
-│ ├── ArcaneAI/
-│ └── ...
-├── thirdparty/
-│ ├── ImGui/
-│ └── ...
-├── build/
-├── CMakeLists.txt
-└── README.md
----
+
 
 ### 📫 Contact
 
